@@ -165,6 +165,13 @@
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/老网影视.js"
         },	
+			{
+            "key": "金牌影院",
+            "name": "金牌影院",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/金牌影院.js"
+        },	
 		{
             "key": "努努影视",
             "name": "努努影视",
@@ -194,11 +201,25 @@
             "ext": "./JS/大米星球DM.js"
         },	
 			{
+            "key": "蘑菇影视",
+            "name": "蘑菇影视",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/蘑菇影视.js"
+        },	
+			{
             "key": "SQZ影视",
             "name": "SQZ影视",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/SQZ影视.js"
+        },	
+			{
+            "key": "看片狂",
+            "name": "看片狂",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/看片狂.js"
         },	
 			{
             "key": "毒舌电影",
