@@ -31,14 +31,7 @@
         },
 {"key": "唐人街影院CF","name": "唐人街影院CF","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/唐人街影院CF.js"},
 //{"key": "乐王电影","name": "乐王电影","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/乐王电影.js"},	
-				{
-            "key": "大米星球DM",
-            "name": "大米星球DM",
-            "type": 3,
-			 "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",				
-			"api": "./JS/drpy2.min.js",
-            "ext": "./JS/大米星球DM.js"
-        },	
+//{"key": "大米星球DM","name": "大米星球DM","type": 3,"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","api": "./JS/drpy2.min.js","ext": "./JS/大米星球DM.js"},
 			{
             "key": "大米影视",
             "name": "大米影视",
